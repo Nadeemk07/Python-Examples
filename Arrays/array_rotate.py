@@ -27,3 +27,5 @@ arr = [1, 2, 3, 4, 5, 6, 7]
 rotation(arr, 7, 3)
 rotate_by_one(arr, 7)
 rotated_array(arr, 7)
+
+# TC=O(N*D) SC=O(1)
